@@ -25,7 +25,7 @@ You can check them as well via [google sheet](https://docs.google.com/spreadshee
 | Harmony| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) 	https://docs.harmony.one/home/general/ecosystem/grants| |   |   |
 | Fantom| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://fantom.foundation/blog/fantom-incentive-program-how-to-apply/| DeFi|   |   |
 | Devcon [Ethereum Foundation]| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://ethereum.org/en/community/grants/| |   |   |
-| Polygon| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://tally.so/r/wgLADn| |   | https://www.polygongrantshackathon.com/	  |
+| Polygon| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) [https://tally.so/r/wgLADn](https://ah14fprqqlp.typeform.com/to/krMJR89c)| |   | https://www.polygongrantshackathon.com/	  |
 | Stellar| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://www.stellar.org/foundation/grants-and-funding| |   |   |
 | Tezos| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://grants.tezos.foundation/| |   |   |
 | Algorand| ![#ABEA7C](https://via.placeholder.com/10/ABEA7C?text=+) https://algorand.foundation/grants-program| |   |   |
